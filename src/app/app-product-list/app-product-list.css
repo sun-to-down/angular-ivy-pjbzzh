@@ -1,0 +1,13 @@
+.productItem {
+  color: blue;
+}
+.productDescrition {
+  font-size: 14px;
+}
+.shareBtn {
+  display: block;
+  background-color: aqua;
+  border: none;
+  padding: 3px 5px;
+  margin-top: 3px;
+}

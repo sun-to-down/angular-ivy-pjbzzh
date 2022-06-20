@@ -1,0 +1,13 @@
+.topBar {
+  display: flex;
+  justify-content: space-between;
+  background-color: blue;
+  color: white;
+  padding: 5px 10px;
+}
+.topBar-title {
+  font-size: 20px;
+}
+.topBar-car {
+  padding: 3px 5px;
+}
